@@ -1,0 +1,101 @@
+ORDERNUMBER;QUANTITYORDERED;PRICEEACH;ORDERLINENUMBER;SALES;ORDERDATE;STATUS;QTR_ID;MONTH_ID;YEAR_ID;PRODUCTLINE;MSRP;PRODUCTCODE;CUSTOMERNAME;PHONE;ADDRESSLINE1;ADDRESSLINE2;CITY;STATE;POSTALCODE;COUNTRY;TERRITORY;CONTACTLASTNAME;CONTACTFIRSTNAME;DEALSIZE
+10143;28;66.19;6;1853.32;8/10/2003 0:00;Shipped;3;8;2003;Planes;68;S24_3949;Mini Creations Ltd.;5085559555;4575 Hillside Dr.;;New Bedford;MA;50553;USA;NA;Tam;Wing C;Small
+10155;44;77.11;4;3392.84;10/6/2003 0:00;Shipped;4;10;2003;Planes;68;S24_3949;"Toys of Finland; Co.";90-224 8555;Keskuskatu 45;;Helsinki;;21240;Finland;EMEA;Karttunen;Matti;Medium
+10168;27;73.02;18;1971.54;10/28/2003 0:00;Shipped;4;10;2003;Planes;68;S24_3949;Technics Stores Inc.;6505556809;9408 Furth Circle;;Burlingame;CA;94217;USA;NA;Hirano;Juri;Small
+10178;30;72.33;3;2169.9;11/8/2003 0:00;Shipped;4;11;2003;Planes;68;S24_3949;Alpha Cognac;61.77.6555;1 rue Alsace-Lorraine;;Toulouse;;31000;France;EMEA;Roulet;Annette;Small
+10198;43;66.19;3;2846.17;11/27/2003 0:00;Shipped;4;11;2003;Planes;68;S24_3949;Cruz & Sons Co.;+63 2 555 3587;15 McCallum Street - NatWest Center #13-03;;Makati City;;1227 MM;Philippines;Japan;Cruz;Arnold;Small
+10210;29;69.6;16;2018.4;1/12/2004 0:00;Shipped;1;1;2004;Planes;68;S24_3949;Osaka Souveniers Co.;+81 06 6342 5555;"Dojima Avanza 4F; 1-6-20 Dojima; Kita-ku";;Osaka;Osaka;530-0003;Japan;Japan;Kentary;Mory;Small
+10222;48;56.64;3;2718.72;2/19/2004 0:00;Shipped;1;2;2004;Planes;68;S24_3949;Collectable Mini Designs Co.;7605558146;361 Furth Circle;;San Diego;CA;91217;USA;NA;Thompson;Valarie;Small
+10235;33;60.05;12;1981.65;4/2/2004 0:00;Shipped;2;4;2004;Planes;68;S24_3949;"Royal Canadian Collectables; Ltd.";(604) 555-4555;23 Tsawassen Blvd.;;Tsawassen;BC;T2F 8M4;Canada;NA;Lincoln;Elizabeth;Small
+10250;40;75.06;13;3002.4;5/11/2004 0:00;Shipped;2;5;2004;Planes;68;S24_3949;The Sharp Gifts Warehouse;4085553659;3086 Ingle Ln.;;San Jose;CA;94217;USA;NA;Frick;Sue;Medium
+10262;48;61.42;8;2948.16;6/24/2004 0:00;Cancelled;2;6;2004;Planes;68;S24_3949;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Small
+10275;41;81.89;18;3357.49;7/23/2004 0:00;Shipped;3;7;2004;Planes;68;S24_3949;La Rochelle Gifts;40.67.8555;"67; rue des Cinquante Otages";;Nantes;;44000;France;EMEA;Labrune;Janine;Medium
+10284;21;55.96;10;1175.16;8/21/2004 0:00;Shipped;3;8;2004;Planes;68;S24_3949;"Norway Gifts By Mail; Co.";+47 2212 1555;"Drammensveien 126 A; PB 744 Sentrum";;Oslo;;N 0106;Norway;EMEA;Klaeboe;Jan;Small
+10296;32;71.65;6;2292.8;9/15/2004 0:00;Shipped;3;9;2004;Planes;68;S24_3949;"Bavarian Collectables Imports; Co.";+49 89 61 08 9555;Hansastr. 15;;Munich;;80686;Germany;EMEA;Donnermeyer;Michael;Small
+10308;43;76.43;16;3286.49;10/15/2004 0:00;Shipped;4;10;2004;Planes;68;S24_3949;Mini Classics;9145554562;3758 North Pendale Street;;White Plains;NY;24067;USA;NA;Frick;Steve;Medium
+10316;30;77.79;8;2333.7;11/1/2004 0:00;Shipped;4;11;2004;Planes;68;S24_3949;giftsbymail.co.uk;(198) 555-8888;Garden House Crowther Way;;Cowes;Isle of Wight;PO31 7PJ;UK;EMEA;Bennett;Helen;Small
+10328;35;76.43;3;2675.05;11/12/2004 0:00;Shipped;4;11;2004;Planes;68;S24_3949;Rovelli Gifts;035-640555;Via Ludovico il Moro 22;;Bergamo;;24100;Italy;EMEA;Rovelli;Giovanni;Small
+10339;45;96.92;11;4361.4;11/23/2004 0:00;Shipped;4;11;2004;Planes;68;S24_3949;"Tokyo Collectables; Ltd";+81 3 3584 0555;2-2-8 Roppongi;;Minato-ku;Tokyo;106-0032;Japan;Japan;Shimamura;Akiko;Medium
+10351;34;59.37;3;2018.58;12/3/2004 0:00;Shipped;4;12;2004;Planes;68;S24_3949;"Stylish Desk Decors; Co.";(171) 555-0297;35 King George;;London;;WX3 6FW;UK;EMEA;Brown;Ann;Small
+10361;26;100;7;3710.98;12/17/2004 0:00;Shipped;4;12;2004;Planes;68;S24_3949;Souveniers And Things Co.;+61 2 9495 8555;"Monitor Money Building; 815 Pacific Hwy";Level 6;Chatswood;NSW;2067;Australia;APAC;Huxley;Adrian;Medium
+10373;39;73;13;2847;1/31/2005 0:00;Shipped;1;1;2005;Planes;68;S24_3949;"Oulu Toy Supplies; Inc.";981-443655;Torikatu 38;;Oulu;;90110;Finland;EMEA;Koskitalo;Pirkko;Small
+10386;41;73.32;12;3006.12;3/1/2005 0:00;Resolved;1;3;2005;Planes;68;S24_3949;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10398;41;68.24;2;2797.84;3/30/2005 0:00;Shipped;1;3;2005;Planes;68;S24_3949;Reims Collectables;26.47.1555;59 rue de l'Abbaye;;Reims;;51100;France;EMEA;Henriot;Paul;Small
+10401;64;60.05;12;3843.2;4/3/2005 0:00;On Hold;2;4;2005;Planes;68;S24_3949;Tekni Collectables Inc.;2015559350;7476 Moss Rd.;;Newark;NJ;94019;USA;NA;Brown;William;Medium
+10416;18;75.06;13;1351.08;5/10/2005 0:00;Shipped;2;5;2005;Planes;68;S24_3949;L'ordine Souveniers;0522-556555;Strada Provinciale 124;;Reggio Emilia;;42100;Italy;EMEA;Moroni;Maurizio;Small
+10100;49;34.47;1;1689.03;1/6/2003 0:00;Shipped;1;1;2003;Vintage Cars;41;S24_3969;Online Diecast Creations Co.;6035558647;2304 Long Airport Avenue;;Nashua;NH;62005;USA;NA;Young;Valarie;Small
+10110;48;34.47;5;1654.56;3/18/2003 0:00;Shipped;1;3;2003;Vintage Cars;41;S24_3969;"AV Stores; Co.";(171) 555-1555;Fauntleroy Circus;;Manchester;;EC2 5NT;UK;EMEA;Ashworth;Victoria;Small
+10124;46;33.23;4;1528.58;5/21/2003 0:00;Shipped;2;5;2003;Vintage Cars;41;S24_3969;Signal Gift Stores;7025551838;8489 Strong St.;;Las Vegas;NV;83030;USA;NA;King;Sue;Small
+10149;26;38.98;9;1013.48;9/12/2003 0:00;Shipped;3;9;2003;Vintage Cars;41;S24_3969;Signal Collectibles Ltd.;4155554312;2793 Furth Circle;;Brisbane;CA;94217;USA;NA;Taylor;Sue;Small
+10162;37;38.98;7;1442.26;10/18/2003 0:00;Shipped;4;10;2003;Vintage Cars;41;S24_3969;Corporate Gift Ideas Co.;6505551386;7734 Strong St.;;San Francisco;CA;;USA;NA;Brown;Julie;Small
+10173;35;33.23;11;1163.05;11/5/2003 0:00;Shipped;4;11;2003;Vintage Cars;41;S24_3969;Rovelli Gifts;035-640555;Via Ludovico il Moro 22;;Bergamo;;24100;Italy;EMEA;Rovelli;Giovanni;Small
+10182;23;42.26;8;971.98;11/12/2003 0:00;Shipped;4;11;2003;Vintage Cars;41;S24_3969;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Small
+10193;22;41.03;12;902.66;11/21/2003 0:00;Shipped;4;11;2003;Vintage Cars;41;S24_3969;"Australian Collectables; Ltd";61-9-3844-6555;7 Allen Street;;Glen Waverly;Victoria;3150;Australia;APAC;Connery;Sean;Small
+10204;39;33.23;2;1295.97;12/2/2003 0:00;Shipped;4;12;2003;Vintage Cars;41;S24_3969;Muscle Machine Inc;2125557413;4092 Furth Circle;Suite 400;NYC;NY;10022;USA;NA;Young;Jeff;Small
+10214;44;34.88;5;1534.72;1/26/2004 0:00;Shipped;1;1;2004;Vintage Cars;41;S24_3969;"Corrida Auto Replicas; Ltd";(91) 555 22 82;"C/ Araquil; 67";;Madrid;;28023;Spain;EMEA;Sommer;Mart�n;Small
+10227;27;43.9;8;1185.3;3/2/2004 0:00;Shipped;1;3;2004;Vintage Cars;41;S24_3969;"Saveley & Henriot; Co.";78.32.5555;"2; rue du Commerce";;Lyon;;69004;France;EMEA;Saveley;Mary;Small
+10242;46;36.93;1;1698.78;4/20/2004 0:00;Shipped;2;4;2004;Vintage Cars;41;S24_3969;Microscale Inc.;2125551957;5290 North Pendale Street;Suite 200;NYC;NY;10022;USA;NA;Kuo;Kee;Small
+10280;33;41.85;14;1381.05;8/17/2004 0:00;Shipped;3;8;2004;Vintage Cars;41;S24_3969;Amica Models & Co.;011-4988555;Via Monte Bianco 34;;Torino;;10100;Italy;EMEA;Accorti;Paolo;Small
+10288;33;40.62;3;1340.46;9/1/2004 0:00;Shipped;3;9;2004;Vintage Cars;41;S24_3969;Handji Gifts& Co;+65 224 1555;Village Close - 106 Linden Road Sandown;2nd Floor;Singapore;;69045;Singapore;APAC;Victorino;Wendy;Small
+10303;24;40.21;1;965.04;10/6/2004 0:00;Shipped;4;10;2004;Vintage Cars;41;S24_3969;"Iberia Gift Imports; Corp.";(95) 555 82 82;"C/ Romero; 33";;Sevilla;;41101;Spain;EMEA;Roel;Jose Pedro;Small
+10312;31;35.29;15;1093.99;10/21/2004 0:00;Shipped;4;10;2004;Vintage Cars;41;S24_3969;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Small
+10332;41;77.24;14;3166.84;11/17/2004 0:00;Shipped;4;11;2004;Vintage Cars;41;S24_3969;"AV Stores; Co.";(171) 555-1555;Fauntleroy Circus;;Manchester;;EC2 5NT;UK;EMEA;Ashworth;Victoria;Medium
+10346;22;97.44;4;2143.68;11/29/2004 0:00;Shipped;4;11;2004;Vintage Cars;41;S24_3969;Signal Gift Stores;7025551838;8489 Strong St.;;Las Vegas;NV;83030;USA;NA;King;Sue;Small
+10368;46;37.34;3;1717.64;1/19/2005 0:00;Shipped;1;1;2005;Vintage Cars;41;S24_3969;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Small
+10380;43;95.03;12;4086.29;2/16/2005 0:00;Shipped;1;2;2005;Vintage Cars;41;S24_3969;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10408;15;36.93;1;553.95;4/22/2005 0:00;Shipped;2;4;2005;Vintage Cars;41;S24_3969;"Tokyo Collectables; Ltd";+81 3 3584 0555;2-2-8 Roppongi;;Minato-ku;Tokyo;106-0032;Japan;Japan;Shimamura;Akiko;Small
+10420;15;43.49;3;652.35;5/29/2005 0:00;In Process;2;5;2005;Vintage Cars;41;S24_3969;Souveniers And Things Co.;+61 2 9495 8555;"Monitor Money Building; 815 Pacific Hwy";Level 6;Chatswood;NSW;2067;Australia;APAC;Huxley;Adrian;Small
+10104;26;100;5;2921.62;1/31/2003 0:00;Shipped;1;1;2003;Classic Cars;118;S24_4048;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Small
+10115;44;100;1;5568.64;4/4/2003 0:00;Shipped;2;4;2003;Classic Cars;118;S24_4048;Classic Legends Inc.;2125558493;5905 Pompton St.;Suite 750;NYC;NY;10022;USA;NA;Hernandez;Maria;Medium
+10127;20;96.99;7;1939.8;6/3/2003 0:00;Shipped;2;6;2003;Classic Cars;118;S24_4048;Muscle Machine Inc;2125557413;4092 Furth Circle;Suite 400;NYC;NY;10022;USA;NA;Young;Jeff;Small
+10141;40;94.62;1;3784.8;8/1/2003 0:00;Shipped;3;8;2003;Classic Cars;118;S24_4048;Suominen Souveniers;+358 9 8045 555;"Software Engineering Center; SEC Oy";;Espoo;;FIN-02271;Finland;EMEA;Suominen;Kalle;Medium
+10152;23;100;3;2802.09;9/25/2003 0:00;Shipped;3;9;2003;Classic Cars;118;S24_4048;"Australian Gift Network; Co";61-7-3844-6555;31 Duncan St. West End;;South Brisbane;Queensland;4101;Australia;APAC;Calaghan;Tony;Small
+10165;24;99.36;8;2384.64;10/22/2003 0:00;Shipped;4;10;2003;Classic Cars;118;S24_4048;"Dragon Souveniers; Ltd.";+65 221 7555;"Bronz Sok.; Bronz Apt. 3/6 Tesvikiye";;Singapore;;79903;Singapore;Japan;Natividad;Eric;Small
+10176;29;100;7;2915.66;11/6/2003 0:00;Shipped;4;11;2003;Classic Cars;118;S24_4048;L'ordine Souveniers;0522-556555;Strada Provinciale 124;;Reggio Emilia;;42100;Italy;EMEA;Moroni;Maurizio;Small
+10184;49;100;2;5795.72;11/14/2003 0:00;Shipped;4;11;2003;Classic Cars;118;S24_4048;"Iberia Gift Imports; Corp.";(95) 555 82 82;"C/ Romero; 33";;Sevilla;;41101;Spain;EMEA;Roel;Jose Pedro;Medium
+10195;34;100;2;3699.88;11/25/2003 0:00;Shipped;4;11;2003;Classic Cars;118;S24_4048;Mini Classics;9145554562;3758 North Pendale Street;;White Plains;NY;24067;USA;NA;Frick;Steve;Medium
+10207;28;100;3;2980.6;12/9/2003 0:00;Shipped;4;12;2003;Classic Cars;118;S24_4048;Diecast Collectables;6175552555;6251 Ingle Ln.;;Boston;MA;51003;USA;NA;Franco;Valarie;Small
+10220;37;100;7;5032.74;2/12/2004 0:00;Shipped;1;2;2004;Classic Cars;118;S24_4048;"Clover Collections; Co.";+353 1862 1555;25 Maiden Lane;Floor No. 4;Dublin;;2;Ireland;EMEA;Cassidy;Dean;Medium
+10230;45;100;5;4737.15;3/15/2004 0:00;Shipped;1;3;2004;Classic Cars;118;S24_4048;"Blauer See Auto; Co.";+49 69 66 90 2555;Lyonerstr. 34;;Frankfurt;;60528;Germany;EMEA;Keitel;Roland;Medium
+10246;46;100;1;6311.2;5/5/2004 0:00;Shipped;2;5;2004;Classic Cars;118;S24_4048;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10271;22;100;1;3070.54;7/20/2004 0:00;Shipped;3;7;2004;Classic Cars;118;S24_4048;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Medium
+10282;39;100;10;4797.39;8/20/2004 0:00;Shipped;3;8;2004;Classic Cars;118;S24_4048;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Medium
+10292;27;100;4;3832.38;9/8/2004 0:00;Shipped;3;9;2004;Classic Cars;118;S24_4048;Land of Toys Inc.;2125557818;897 Long Airport Avenue;;NYC;NY;10022;USA;NA;Yu;Kwai;Medium
+10305;36;100;1;4641.48;10/13/2004 0:00;Shipped;4;10;2004;Classic Cars;118;S24_4048;Marta's Replicas Co.;6175558555;39323 Spinnaker Dr.;;Cambridge;MA;51247;USA;NA;Hernandez;Marta;Medium
+10314;38;100;10;4000.26;10/22/2004 0:00;Shipped;4;10;2004;Classic Cars;118;S24_4048;Heintze Collectables;86 21 3555;Smagsloget 45;;Aaarhus;;8200;Denmark;EMEA;Ibsen;Palle;Medium
+10325;44;100;5;5325.76;11/5/2004 0:00;Shipped;4;11;2004;Classic Cars;118;S24_4048;Baane Mini Imports;07-98 9555;Erling Skakkes gate 78;;Stavern;;4110;Norway;EMEA;Bergulfsen;Jonas;Medium
+10336;31;100;5;4618.69;11/20/2004 0:00;Shipped;4;11;2004;Classic Cars;118;S24_4048;"La Corne D'abondance; Co.";(1) 42.34.2555;"265; boulevard Charonne";;Paris;;75012;France;EMEA;Bertrand;Marie;Medium
+10349;23;100;2;3182.97;12/1/2004 0:00;Shipped;4;12;2004;Classic Cars;118;S24_4048;Muscle Machine Inc;2125557413;4092 Furth Circle;Suite 400;NYC;NY;10022;USA;NA;Young;Jeff;Medium
+10359;22;100;7;2603.04;12/15/2004 0:00;Shipped;4;12;2004;Classic Cars;118;S24_4048;Reims Collectables;26.47.1555;59 rue de l'Abbaye;;Reims;;51100;France;EMEA;Henriot;Paul;Small
+10371;28;50.32;9;1408.96;1/23/2005 0:00;Shipped;1;1;2005;Classic Cars;118;S24_4048;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Small
+10383;21;93.91;4;1972.11;2/22/2005 0:00;Shipped;1;2;2005;Classic Cars;118;S24_4048;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Small
+10394;37;100;7;5207.75;3/15/2005 0:00;Shipped;1;3;2005;Classic Cars;118;S24_4048;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10412;31;100;1;4253.2;5/3/2005 0:00;Shipped;2;5;2005;Classic Cars;118;S24_4048;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10103;25;100;15;2873;1/29/2003 0:00;Shipped;1;1;2003;Vintage Cars;97;S24_4258;Baane Mini Imports;07-98 9555;Erling Skakkes gate 78;;Stavern;;4110;Norway;EMEA;Bergulfsen;Jonas;Small
+10111;26;86.68;3;2253.68;3/25/2003 0:00;Shipped;1;3;2003;Vintage Cars;97;S24_4258;Mini Wheels Co.;6505555787;5557 North Pendale Street;;San Francisco;CA;;USA;NA;Murphy;Julie;Small
+10126;34;100;15;3576.12;5/28/2003 0:00;Shipped;2;5;2003;Vintage Cars;97;S24_4258;"Corrida Auto Replicas; Ltd";(91) 555 22 82;"C/ Araquil; 67";;Madrid;;28023;Spain;EMEA;Sommer;Mart�n;Medium
+10139;29;100;4;3276.13;7/16/2003 0:00;Shipped;3;7;2003;Vintage Cars;97;S24_4258;Souveniers And Things Co.;+61 2 9495 8555;"Monitor Money Building; 815 Pacific Hwy";Level 6;Chatswood;NSW;2067;Australia;APAC;Huxley;Adrian;Medium
+10149;20;90.57;1;1811.4;9/12/2003 0:00;Shipped;3;9;2003;Vintage Cars;97;S24_4258;Signal Collectibles Ltd.;4155554312;2793 Furth Circle;;Brisbane;CA;94217;USA;NA;Taylor;Sue;Small
+10163;42;91.55;5;3845.1;10/20/2003 0:00;Shipped;4;10;2003;Vintage Cars;97;S24_4258;Classic Legends Inc.;2125558493;5905 Pompton St.;Suite 750;NYC;NY;10022;USA;NA;Hernandez;Maria;Medium
+10173;22;100;3;2571.14;11/5/2003 0:00;Shipped;4;11;2003;Vintage Cars;97;S24_4258;Rovelli Gifts;035-640555;Via Ludovico il Moro 22;;Bergamo;;24100;Italy;EMEA;Rovelli;Giovanni;Small
+10183;47;100;12;5035.11;11/13/2003 0:00;Shipped;4;11;2003;Vintage Cars;97;S24_4258;"Classic Gift Ideas; Inc";2155554695;782 First Street;;Philadelphia;PA;71270;USA;NA;Cervantes;Francisca;Medium
+10193;20;100;4;2279;11/21/2003 0:00;Shipped;4;11;2003;Vintage Cars;97;S24_4258;"Australian Collectables; Ltd";61-9-3844-6555;7 Allen Street;;Glen Waverly;Victoria;3150;Australia;APAC;Connery;Sean;Small
+10206;33;97.39;10;3213.87;12/5/2003 0:00;Shipped;4;12;2003;Vintage Cars;97;S24_4258;Canadian Gift Exchange Network;(604) 555-3392;1900 Oak St.;;Vancouver;BC;V3F 2K1;Canada;NA;Tannamuri;Yoshi;Medium
+10215;39;90.57;7;3532.23;1/29/2004 0:00;Shipped;1;1;2004;Vintage Cars;97;S24_4258;West Coast Collectables Co.;3105553722;3675 Furth Circle;;Burbank;CA;94019;USA;NA;Thompson;Steve;Medium
+10228;33;100;6;3406.59;3/10/2004 0:00;Shipped;1;3;2004;Vintage Cars;97;S24_4258;Cambridge Collectables Co.;6175555555;4658 Baden Av.;;Cambridge;MA;51247;USA;NA;Tseng;Kyung;Medium
+10244;40;86.68;4;3467.2;4/29/2004 0:00;Shipped;2;4;2004;Vintage Cars;97;S24_4258;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10257;46;78.89;4;3628.94;6/14/2004 0:00;Shipped;2;6;2004;Vintage Cars;97;S24_4258;The Sharp Gifts Warehouse;4085553659;3086 Ingle Ln.;;San Jose;CA;94217;USA;NA;Frick;Sue;Medium
+10269;48;97.39;2;4674.72;7/16/2004 0:00;Shipped;3;7;2004;Vintage Cars;97;S24_4258;Salzburg Collectables;6562-9555;Geislweg 14;;Salzburg;;5020;Austria;EMEA;Pipps;Georg;Medium
+10280;21;78.89;6;1656.69;8/17/2004 0:00;Shipped;3;8;2004;Vintage Cars;97;S24_4258;Amica Models & Co.;011-4988555;Via Monte Bianco 34;;Torino;;10100;Italy;EMEA;Accorti;Paolo;Small
+10290;45;100;1;5171.4;9/7/2004 0:00;Shipped;3;9;2004;Vintage Cars;97;S24_4258;Auto-Moto Classics Inc.;6175558428;16780 Pompton St.;;Brickhaven;MA;58339;USA;NA;Taylor;Leslie;Medium
+10304;33;100;10;3342.57;10/11/2004 0:00;Shipped;4;10;2004;Vintage Cars;97;S24_4258;Auto Assoc. & Cie.;30.59.8555;"67; avenue de l'Europe";;Versailles;;78000;France;EMEA;Tonini;Daniel;Medium
+10312;44;100;7;4884.88;10/21/2004 0:00;Shipped;4;10;2004;Vintage Cars;97;S24_4258;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Medium
+10324;33;100;3;6267.69;11/5/2004 0:00;Shipped;4;11;2004;Vintage Cars;97;S24_4258;Vitachrome Inc.;2125551500;2678 Kingston Rd.;Suite 101;NYC;NY;10022;USA;NA;Frick;Michael;Medium
+10333;39;100;1;4424.16;11/18/2004 0:00;Shipped;4;11;2004;Vintage Cars;97;S24_4258;Mini Wheels Co.;6505555787;5557 North Pendale Street;;San Francisco;CA;;USA;NA;Murphy;Julie;Medium
+10348;39;50.31;2;1962.09;11/1/2004 0:00;Shipped;4;11;2004;Vintage Cars;97;S24_4258;"Corrida Auto Replicas; Ltd";(91) 555 22 82;"C/ Araquil; 67";;Madrid;;28023;Spain;EMEA;Sommer;Mart�n;Small
+10358;41;100;6;6847;12/10/2004 0:00;Shipped;4;12;2004;Vintage Cars;97;S24_4258;Euro Shopping Channel;(91) 555 94 44;"C/ Moralzarzal; 86";;Madrid;;28034;Spain;EMEA;Freyre;Diego;Medium
+10369;40;86.92;3;3476.8;1/20/2005 0:00;Shipped;1;1;2005;Vintage Cars;97;S24_4258;Collectables For Less Inc.;6175558555;7825 Douglas Av.;;Brickhaven;MA;58339;USA;NA;Nelson;Allen;Medium
+10382;33;100;4;4592.61;2/17/2005 0:00;Shipped;1;2;2005;Vintage Cars;97;S24_4258;Mini Gifts Distributors Ltd.;4155551450;5677 Strong St.;;San Rafael;CA;97562;USA;NA;Nelson;Valarie;Medium
+10423;28;78.89;4;2208.92;5/30/2005 0:00;In Process;2;5;2005;Vintage Cars;97;S24_4258;Petit Auto;(02) 5554 67;Rue Joseph-Bens 532;;Bruxelles;;B-1180;Belgium;EMEA;Dewey;Catherine;Small
+10106;26;63.76;3;1657.76;2/17/2003 0:00;Shipped;1;2;2003;Planes;72;S24_4278;Rovelli Gifts;035-640555;Via Ludovico il Moro 22;;Bergamo;;24100;Italy;EMEA;Rovelli;Giovanni;Small
+10120;29;85.49;9;2479.21;4/29/2003 0:00;Shipped;2;4;2003;Planes;72;S24_4278;"Australian Collectors; Co.";03 9520 4555;636 St Kilda Road;Level 3;Melbourne;Victoria;3004;Australia;APAC;Ferguson;Peter;Small
